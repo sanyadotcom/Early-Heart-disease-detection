@@ -13,5 +13,8 @@ Developed a machine learning classification model to predict the likelihood of h
 
 5.Tools/Technologies: Python, Pandas, scikit-learn, Matplotlib, Seaborn.
 
+![image](https://github.com/user-attachments/assets/18a89014-eaf3-4978-8958-37572bdf460e)
+
+
 
 
